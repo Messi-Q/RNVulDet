@@ -1,0 +1,172 @@
+[
+    {
+        "address": "0x9c16cbb9f9bd827f6cbee556c7801073fbac2250",
+        "source": "CVE",
+        "remarks": "1/10, CVE-2018-12056, all for one, Jonghyuk Song"
+    },
+    {
+        "address": "0x386771ba5705da638d889381471ec1025a824f53",
+        "source": "CVE",
+        "remarks": "2/10, CVE-2018-12454, 1000 guess, Jonghyuk Song"
+    },
+    {
+        "address": "0xa44e464b13280340904ffef0a65b8a0033460430",
+        "source": "CVE",
+        "remarks": "3/10, CVE-2018-12885, MyCyptoChamp, Jonghyuk Song"
+    },
+    {
+        "address": "0xcc862f25b2f725c0666d67774c47c63c9a3af150",
+        "source": "CVE",
+        "remarks": "4/10, CVE-2018-12975, Cryptosaga, Jonghyuk Song"
+    },
+    {
+        "address": "0xefabe332d31c3982b76f8630a306c960169bd5b3",
+        "source": "CVE",
+        "remarks": "5/10, CVE-2018-14715, Cryptogs, Jonghyuk Song"
+    },
+    {
+        "address": "0x1e217adc6a6adc16e248af109ab7efa4d1bb252d",
+        "source": "CVE",
+        "remarks": "6/10, CVE-2018-15552, TheEthereumLottery, TEAM-C4B"
+    },
+    {
+        "address": "0x94f5a9cecb397a8fb837edb809bc1cd6a66ffed2",
+        "source": "CVE",
+        "remarks": "7/10, CVE-2018-17071, lucky9io, TEAM-C4B"
+    },
+    {
+        "address": "0x3bb5e74f7ff56e0b64d326f8ec07236aa4a07260",
+        "source": "CVE",
+        "remarks": "8/10, CVE-2018-17877, Greedy599, TEAM-C4B"
+    },
+    {
+        "address": "0xef02c45c5913629dd12e7a9446455049775eec32",
+        "source": "CVE",
+        "remarks": "9/10, CVE-2018-17968, ruletka.io, TEAM-C4B"
+    },
+    {
+        "address": "0x103992432927f7ed1a5b3dc0e34186f80b16d93c",
+        "source": "CVE",
+        "remarks": "10/10, CVE-2018-17987, hashheroes, TEAM-C4B"
+    },
+    {
+        "address": "0x4513ab6a3b345276bbf59df54f770a635e208b70",
+        "source": "zhongqiangc",
+        "remarks": "1/16, FiftyFifty"
+    },
+    {
+        "address": "0xbc5716fb981c03dd0b50909f7581c53f6461d72c",
+        "source": "zhongqiangc",
+        "remarks": "2/16, LongHuContract"
+    },
+    {
+        "address": "0x42595584e6029178d6009077db7a6b68650aa1f0",
+        "source": "zhongqiangc",
+        "remarks": "3/16, BetContract"
+    },
+    {
+        "address": "0xa62142888aba8370742be823c1782d17a0389da1",
+        "source": "zhongqiangc",
+        "remarks": "4/16, FoMo3D long"
+    },
+    {
+        "address": "0x460a5098248f4aa1a46eec6aac78b7819ea01c42",
+        "source": "zhongqiangc",
+        "remarks": "5/16, Suoha"
+    },
+    {
+        "address": "0x87f31ab270ecf848663d64d3ab0998de2088a226",
+        "source": "zhongqiangc",
+        "remarks": "6/16, slotmachine"
+    },
+    {
+        "address": "0x71c11a3b3a13a2e4a23c760722691952319ac7b9",
+        "source": "zhongqiangc",
+        "remarks": "7/16, roulette"
+    },
+    {
+        "address": "0x8a883a20940870dc055f2070ac8ec847ed2d9918",
+        "source": "zhongqiangc",
+        "remarks": "8/16, RatScam"
+    },
+    {
+        "address": "0x0b5da756938e334c97ce20715e32a4a8fea12ba9",
+        "source": "zhongqiangc",
+        "remarks": "9/16, F3Dultra"
+    },
+    {
+        "address": "0x0f90ef4e2526e3d1791862574f9fb26a0f39ec86",
+        "source": "zhongqiangc",
+        "remarks": "10/16, F3DPLUS"
+    },
+    {
+        "address": "0x5cd17346bc2b8b3b04251dfea7763dbc70cceaf7",
+        "source": "zhongqiangc",
+        "remarks": "11/16, FoMo3D Asia"
+    },
+    {
+        "address": "0x51a5271ec514c3065d9de2d8e95051989f7d53ab",
+        "source": "zhongqiangc",
+        "remarks": "12/16, imfomo"
+    },
+    {
+        "address": "0x52083b1a21a5abc422b1b0bce5c43ca86ef74cd1",
+        "source": "zhongqiangc",
+        "remarks": "13/16, FoMo3Dshort"
+    },
+    {
+        "address": "0x86d179c28cceb120cd3f64930cf1820a88b77d60",
+        "source": "zhongqiangc",
+        "remarks": "14/16, FoMoGame"
+    },
+    {
+        "address": "0xd227752efd4a12fb58760ce5999b4eec5ec76640",
+        "source": "zhongqiangc",
+        "remarks": "15/16, coinflip"
+    },
+    {
+        "address": "0x6086f10b9718b9baac661fd1141582da55e6a8ad",
+        "source": "zhongqiangc",
+        "remarks": "16/16, GragonKing"
+    },
+    {
+        "address": "0x80ddae5251047d6ceb29765f38fed1c0013004b7",
+        "source": "positive.com",
+        "remarks": "1/6"
+    },
+    {
+        "address": "0xa11e4ed59dc94e69612f3111942626ed513cb172",
+        "source": "positive.com",
+        "remarks": "2/6"
+    },
+    {
+        "address": "0xcc88937f325d1c6b97da0afdbb4ca542efa70870",
+        "source": "positive.com",
+        "remarks": "3/6"
+    },
+    {
+        "address": "0xa65d59708838581520511d98fb8b5d1f76a96cad",
+        "source": "positive.com",
+        "remarks": "4/6"
+    },
+    {
+        "address": "0xf767fca8e65d03fe16d4e38810f5e5376c3372a8",
+        "source": "positive.com",
+        "remarks": "5/6"
+    },
+    {
+        "address": "0x5ace17f87c7391e5792a7683069a8025b83bbd85",
+        "source": "positive.com",
+        "remarks": "6/6 SmartBillions"
+    },
+    {
+        "address": "0x5fe5b7546d1628f7348b023a0393de1fc825a4fd",
+        "source": "reddit",
+        "remarks": "1/1, Roulette, https://www.reddit.com/r/ethereum/comments/3gkplz/introducing_roulette/"
+    },
+    {
+        "address": "0xcac337492149bdb66b088bf5914bedfbf78ccc18",
+        "source": "oyente",
+        "remarks": "1/1, TheRun"
+    }
+]
