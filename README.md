@@ -4,7 +4,7 @@ This repo is a python implementation of our *RNVulDet* – a tool that incorpora
 
 
 ## Overview
-<div align=center><img width="880" height="415" src="./figs/overview.png"/></div>
+<div align=center><img width="880" height="300" src="./figs/overview.png"/></div>
 *RNVulDet* comprises preprocessing and simulated execution. This Figure depicts the overall architecture of our proposed *RNVulDet*. In particular, RNVulDet engages in four main components to perform taint analysis, i.e., stack state examination, memory segmentation, storage key-value pair comparison, and transaction replay.
 
 ## Usage
